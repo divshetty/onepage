@@ -1,0 +1,22 @@
+{
+  "name": "onepager",
+  "version": "1.0.0",
+  "description": "abcd",
+  "main": "onepage.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divshetty/onepage.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "divya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divshetty/onepage/issues"
+  },
+  "homepage": "https://github.com/divshetty/onepage#readme"
+}
